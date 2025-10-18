@@ -1,5 +1,5 @@
-firstNum = int(input("Enter an odd number: "))
-secondNum = int(input("Enter a even number: "))
+firstNum = int(input("Enter odd number: "))
+secondNum = int(input("Enter even number: "))
 
 total = firstNum + secondNum
 
